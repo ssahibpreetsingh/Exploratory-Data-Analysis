@@ -1,4 +1,4 @@
-# Analysing Air Pollution and its relations with Weather and Demography feaures.
+# Analysing Air Pollution and its relations with Weather, Demography feaures.
 
 Check out Jupyter Notebook link here - https://jovian.com/ssahibpreetsingh/air-pollution-data-analysis
 
